@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"github.com/mercadolibre/goConcurrencyAPI/src/api/domain/go_api"
-	"github.com/mercadolibre/taller-go/src/api/utils/apierrors"
+	"github.com/mercadolibre/goConcurrencyAPI/src/api/utils/apierrors"
 	"io/ioutil"
 	"net/http"
 	"sync"

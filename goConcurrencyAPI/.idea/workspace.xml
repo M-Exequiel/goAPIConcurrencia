@@ -38,8 +38,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/api/services/user/user_service.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+            <state relative-caret-position="90">
+              <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -80,19 +80,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/api/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="e#14#121#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="60">
+              <caret line="4" column="71" lean-forward="true" selection-start-line="4" selection-start-column="71" selection-end-line="4" selection-end-column="71" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/api/bench_test.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
@@ -121,13 +118,13 @@
         <option value="$PROJECT_DIR$/src/api/main.go" />
         <option value="$PROJECT_DIR$/src/api/domain/go_api/generic_domain.go" />
         <option value="$PROJECT_DIR$/src/api/domain/go_api/site_domain.go" />
-        <option value="$PROJECT_DIR$/src/api/services/user/user_service.go" />
         <option value="$PROJECT_DIR$/src/api/controllers/user/getUser_test.go" />
         <option value="$PROJECT_DIR$/src/api/services/user/getUserFromAPI_test.go" />
         <option value="$PROJECT_DIR$/src/api/services/user/getUser_test.go" />
         <option value="$PROJECT_DIR$/src/api/controllers/user/user_controller.go" />
         <option value="$PROJECT_DIR$/src/api/test/benchGetUser_test.go" />
         <option value="$PROJECT_DIR$/src/api/bench_test.go" />
+        <option value="$PROJECT_DIR$/src/api/services/user/user_service.go" />
       </list>
     </option>
   </component>
@@ -142,7 +139,88 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="goConcurrencyAPI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="goConcurrencyAPI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="goConcurrencyAPI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="goConcurrencyAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="goConcurrencyAPI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="goConcurrencyAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="goConcurrencyAPI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="goConcurrencyAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="goConcurrencyAPI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="goConcurrencyAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="goConcurrencyAPI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="goConcurrencyAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="goConcurrencyAPI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="goConcurrencyAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+              <item name="go_api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="goConcurrencyAPI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="goConcurrencyAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="goConcurrencyAPI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="goConcurrencyAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="goConcurrencyAPI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="goConcurrencyAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="goConcurrencyAPI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="goConcurrencyAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="apierrors" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
@@ -167,7 +245,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Test.BenchmarkGet10Veces in github.com/mercadolibre/goConcurrencyAPI/src/api">
+  <component name="RunManager" selected="Go Test.BenchmarkGetVariasVeces in github.com/mercadolibre/goConcurrencyAPI/src/api">
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="goConcurrencyAPI" />
       <working_directory value="$PROJECT_DIR$" />
@@ -210,23 +288,24 @@
       <pattern value="^BenchmarkGet10Veces$" />
       <method v="2" />
     </configuration>
-    <configuration name="gobench github.com/mercadolibre/goConcurrencyAPI/src/api/services/user" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="BenchmarkGetVariasVeces in github.com/mercadolibre/goConcurrencyAPI/src/api" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="goConcurrencyAPI" />
-      <working_directory value="$PROJECT_DIR$/src/api/services/user" />
+      <working_directory value="$PROJECT_DIR$/src/api" />
       <framework value="gobench" />
       <kind value="PACKAGE" />
-      <package value="github.com/mercadolibre/goConcurrencyAPI/src/api/services/user" />
+      <package value="github.com/mercadolibre/goConcurrencyAPI/src/api" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
+      <pattern value="^BenchmarkGetVariasVeces$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.BenchmarkGetVariasVeces in github.com/mercadolibre/goConcurrencyAPI/src/api" />
         <item itemvalue="Go Test.BenchmarkGet10Veces in github.com/mercadolibre/goConcurrencyAPI/src/api" />
         <item itemvalue="Go Build.go build main.go" />
         <item itemvalue="Go Test.BenchmarkGet10Veces in github.com/mercadolibre/goConcurrencyAPI/src/api/test" />
         <item itemvalue="Go Test.BenchmarkGet10Veces in github.com/mercadolibre/goConcurrencyAPI/src/api/services/user" />
-        <item itemvalue="Go Test.gobench github.com/mercadolibre/goConcurrencyAPI/src/api/services/user" />
       </list>
     </recent_temporary>
   </component>
@@ -245,12 +324,12 @@
       <workItem from="1557246520000" duration="5098000" />
       <workItem from="1557270697370" duration="2903000" />
       <workItem from="1557321316816" duration="7457000" />
-      <workItem from="1557334082345" duration="702000" />
+      <workItem from="1557334082345" duration="1054000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22978000" />
+    <option name="totallyTimeSpent" value="23330000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -263,8 +342,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -273,7 +353,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -318,27 +398,10 @@
     <entry file="file://$PROJECT_DIR$/src/api/services/user/getUser_test.go" />
     <entry file="file://$PROJECT_DIR$/src/api/cp.out" />
     <entry file="file://$PROJECT_DIR$/src/api/test/benchGetUser_test.go" />
-    <entry file="file://$PROJECT_DIR$/src/api/controllers/user/user_controller.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="49" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
-          <folding>
-            <element signature="e#14#216#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/api/domain/go_api/user_domain.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/api/services/user/user_service.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -363,6 +426,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/services/user/user_service.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/controllers/user/user_controller.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="49" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
+          <folding>
+            <element signature="e#14#216#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/api/utils/apierrors/apirerrors.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -370,20 +450,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="71" lean-forward="true" selection-start-line="4" selection-start-column="71" selection-end-line="4" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/api/bench_test.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/api/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#14#121#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
